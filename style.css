@@ -1,0 +1,12 @@
+.topnav-left li{
+    display: inline;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.topnav-right li{
+    display: inline;
+    padding: 5px;
+    float: right;
+    overflow: hidden;
+}
